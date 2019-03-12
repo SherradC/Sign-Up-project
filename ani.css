@@ -1,0 +1,83 @@
+body{
+    background:black;
+}
+
+
+
+/*-----Animation-----
+.box{
+    background:white;
+    width:200px;
+    height: 200px;
+    position: relative;
+    animation-name: myanimation;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-delay
+    animation-direction (alternate)
+    animation-timing-function (ease-in-out)
+}
+
+ ---Animation----
+@keyframes myanimation{
+    0% {background-color:white; left:0px; top:0px; border-radius:0 0 0 0;}
+    25% {background-color:red; left:400px; top:0px; border-radius: 50% 0 0 0;}
+    50% {background-color:thistle; left:400px; top:300px; border-radius: 50% 50% 0 0;}
+    75% {background-color:burlywood; left:0px; top:300px; border-radius: 50% 50% 50% 0;}
+    100% {background-color:white; left:0px; top:0px; border-radius: 50% 50% 50% 50%;}
+}
+*/
+
+/*
+.box{
+    background:white;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+    top: 200px;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-delay: 2s;
+    transition-timing-function: ease-in;
+    }
+
+.box:hover{
+    background:red;
+    border-radius: 50%
+}
+*/
+/* Transitions properties
+-Properties that have an identifiable halfway point
+
+background-color
+background-positon
+border-color
+border-width
+border-spacing
+bottom
+color
+font-size
+font-weight
+height left
+letter spacing
+line-height
+margin
+max-height
+max-width
+min-height
+min-width
+opacity
+outline-color
+outline-offset
+outline-width
+padding right
+text-indent
+text-shadow
+top
+vertical-align
+visability
+width
+word-spacing
+z-index
+*/
